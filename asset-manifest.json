@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.01234677.css",
+    "main.css": "/static/css/main.2c5bc081.css",
     "main.js": "/static/js/main.5b00d37b.js",
     "static/js/787.3b00bd18.chunk.js": "/static/js/787.3b00bd18.chunk.js",
     "static/media/indiamart_clone.png": "/static/media/indiamart_clone.fa47f7a4b20ef2f95ca7.png",
     "static/media/asos project.jpg": "/static/media/asos project.15eb99e8f92103450f36.jpg",
     "static/media/shivam-logo.png": "/static/media/shivam-logo.f8fbdb6e13d435c0c5aa.png",
     "static/media/Shivam_Mishra-Ressume.pdf": "/static/media/Shivam_Mishra-Ressume.681db39f17ec2ab09d00.pdf",
+    "static/media/pre.svg": "/static/media/pre.e160785ae2766ea54035.svg",
     "index.html": "/index.html",
-    "main.01234677.css.map": "/static/css/main.01234677.css.map",
+    "main.2c5bc081.css.map": "/static/css/main.2c5bc081.css.map",
     "main.5b00d37b.js.map": "/static/js/main.5b00d37b.js.map",
     "787.3b00bd18.chunk.js.map": "/static/js/787.3b00bd18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01234677.css",
+    "static/css/main.2c5bc081.css",
     "static/js/main.5b00d37b.js"
   ]
 }
